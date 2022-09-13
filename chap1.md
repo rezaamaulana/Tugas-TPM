@@ -243,6 +243,13 @@ The character of interaction can be appreciated by considering how it operates i
 >   - 'Interaktivitas' benar-benar keliru — meskipun kami akan terus menggunakan istilah tersebut untuk menghormati mata uangnya yang luas. Ketika peran komputer adalah untuk menyajikan pilihan dan menanggapinya, tidak dapat dikatakan untuk mempertahankan akhir interaksinya, sementara pada saat yang sama mengurangi pilihan pengguna untuk berkontribusi pada hubungan dengan beberapa gerakan mouse. Penerapan kecerdasan buatan dapat meningkatkan tingkat wacana, tetapi (dengan segala hormat kepada Alan Turing) interaksi yang sebenarnya hanya mungkin terjadi di mana orang lain terlibat. Meski begitu, jika interaksi dimediasi oleh sebuah program, bentuknya mungkin sangat terbatas. Dalam banyak kontemporer.
 
 <br>
+
+![alt text](gambar1.PNG)
+
+Figure 1.1
+A typical dialogue box
+
+<br>
 networked games, for example, the only way you can interact with
 your fellow players is apparently by trying to kill them
 
@@ -320,6 +327,12 @@ Kai Krause for products such as KPT and Bryce (see Plate 14 and
 Figure 4.49 in Chapter 4), for example, have sharply divided users,
 with some hailing them as a breakthrough while others criticize
 them for being confusing and affected.
+
+<br>
+
+![alt text](gambar2.PNG)
+
+Figure 1.2 Controls for playing video
 
 >## _**Antarmuka pengguna**_
 >
